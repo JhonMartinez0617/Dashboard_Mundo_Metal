@@ -105,4 +105,4 @@ def update_dashboard(sem_range, sel_kpis):
     return rows, dff.to_dict('records')
 
 if __name__=='__main__':
-    app.run(debug=True)
+    app.run_server(debug=True)
