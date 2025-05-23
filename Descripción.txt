@@ -1,0 +1,15 @@
+Descripción del Dashboard “Mundo Metal”
+
+El dashboard interactivo de Mundo Metal ofrece una visión integral de los indicadores clave de desempeño (KPIs) de la operación metalúrgica, permitiendo el análisis dinámico a través de un rango de semanas seleccionable. Incluye métricas de conversión de clientes, efectividad de canales de venta (redes sociales vs. voz a voz), rendimiento de producción, rotación de inventario y rentabilidad, entre otras. Cada KPI se presenta con el tipo de gráfico más adecuado —barras, histogramas, pie charts, boxplots, líneas y mapas de calor— para facilitar la comparación temporal, la identificación de tendencias y la detección de anomalías.
+
+Características principales:
+
+Filtro temporal: selector de semanas para focalizar el análisis en periodos específicos.
+
+Selección de KPIs: checklist para activar o desactivar indicadores al instante.
+
+Variedad de visualizaciones: gráficos adaptados a la naturaleza de cada métrica, que resaltan patrones de comportamiento y relaciones.
+
+Tabla de datos: despliegue tabular de la información filtrada, con paginación y scroll horizontal.
+
+Este dashboard potencia la toma de decisiones al mostrar de forma clara y visual el estado y la evolución de la producción, ventas y eficiencia operativa de Mundo Metal.

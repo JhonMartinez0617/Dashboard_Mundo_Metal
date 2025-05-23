@@ -1,0 +1,13 @@
+Trabajo de Análisis de datos de la empresa Mundo Metal
+
+Presentado por: 
+Jhon Martinez Utria
+Erick Valenzuela López
+Diego Salvador Ballesteros
+Samuel Contreras Gallego
+
+
+En el archivo instrucciones.txt se presentan las instrucciones para descargar, instalar las dependencias de Python necesarias y ejecutar el archivo app.py que presenta el dashboard interactivo de este análisis que hemos realizado. 
+De tener alguna inquietud se puede comunicar a través de este contacto.
+
+Jhonmartinez0617@gmail.com

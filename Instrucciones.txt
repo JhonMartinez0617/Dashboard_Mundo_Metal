@@ -1,0 +1,47 @@
+Instrucciones con Anaconda para el Dashboard Mundo Metal:
+
+
+1. Crear un entorno conda
+Abre Anaconda Prompt (o tu terminal con conda disponible) y ejecuta:
+
+
+comando: conda create -n mundo_metal_dash python=3.10
+
+
+Esto crea un env llamado mundo_metal_dash con Python 3.10.
+
+
+2.Activar el entorno
+
+
+comando: conda activate mundo_metal_dash
+
+
+3.Instalar dependencias
+Desde conda-forge:
+
+comando: conda install -c conda-forge pandas dash plotly dash-bootstrap-components
+
+Esto instalará todas las librerías necesarias.
+
+
+4.Verificar archivos
+Asegúrate de tener en el directorio de trabajo:
+
+4.1 El archivo csv que corresponde al dataset: mundo_metal_kpis_esp.csv
+
+4.2 El script del dashboard: dashboard_mundo_metal.py
+
+
+5. Ejecutar la aplicación
+
+comando: python dashboard_mundo_metal.py
+
+
+
+6. Abrir el navegador
+Navega a
+
+http://127.0.0.1:8050/
+para ver el dashboard en vivo.
+
